@@ -1,0 +1,382 @@
+{
+    "Swiper":[
+        {
+            "img": "https://api.salian.com/api/file/v1_0/imagebyparent/5653114f-adc4-4b4b-aade-81f8de471754"
+        },
+        {
+            "img": "https://api.salian.com/api/file/v1_0/imagebyparent/9fb6f3fa-d9c6-46c4-8ff7-5065ca271caa"
+        },
+        {
+            "img": "https://api.salian.com/api/file/v1_0/imagebyparent/13d4452c-8725-49ff-8193-04ff9b03f1f7"
+        },
+        {
+            "img": "https://api.salian.com/api/file/v1_0/imagebyparent/f858ea2a-e214-4f99-aa4f-523d73f2c974"
+        },
+        {
+            "img": "https://api.salian.com/api/file/v1_0/imagebyparent/bdf8c2ff-380a-4a52-8a71-8bea5766b70a"
+        }
+    ],
+    "kleidung":[
+        {
+            "image":"https://api.salian.com/api/file/v1_0/image/312932ef-7597-4255-a57a-13c28d1672df",
+            "to":"Mann"
+        },
+        {
+            "image":"https://api.salian.com/api/file/v1_0/image/7485a10e-5e0c-4530-9de6-35cd5d976ca2",
+            "to":"Girl"
+        },
+        {
+            "image":"https://api.salian.com/api/file/v1_0/image/7d0a283a-53af-4793-a0ff-df433f391f0f",
+            "to":"Proudukt"
+        },
+        {
+            "image":"https://api.salian.com/api/file/v1_0/image/d845d229-abeb-47fa-b414-e78828574295",
+            "to":"Girl"
+        }
+    ],
+        "Versand" :[
+            {
+                "Text":"Kostenloser Versand"
+            },
+            {
+                "Text":"Qualitätsprodukt"
+            },
+            {
+                "Text":"15 Tage Rückgaberecht"
+            },
+            {
+                "Text":"24/7 Kunden-Support"
+            }
+        ],
+        "Kategorien":[
+            {
+                "icon":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bbecbdf584e40398446a8bf0117cf62_9366/Samba_OG_Shoes_White_B75806_01_standard.jpg",
+                "Name":"Shoe"
+            },
+            {
+                "icon":"https://jeanswest.ir/_next/image?url=http%3A%2F%2F10.0.1.89%3A8080%2Fuploads%2Fbanner%2F1707808152647-Frame%20254.jpg&w=640&q=75",
+                "Name":"Kinder"
+            },
+            {
+                "icon":"https://jeanswest.ir/_next/image?url=http%3A%2F%2F10.0.1.89%3A8080%2Fuploads%2Fbanner%2F1707808045649-Frame%20249%20(5).jpg&w=640&q=75",
+                "Name":"Herren"
+            },
+            {
+                "icon":"https://api.salian.com/api/file/v1_0/image/5c19c00a-998b-4d8f-9a5c-34f58f45bf2b",
+                "Name":"Damen"
+            },
+            {
+                "icon":"https://api.salian.com/api/file/v1_0/imagebyparent/008e52a3-bdc3-4a53-9de7-6438507ff055",
+                "Name":"Gürtel"
+            },
+            {
+                "icon":"https://jeanswest.ir/_next/image?url=https%3A%2F%2Fmedia.jeanswest.ir%3A443%2Fuploads%2Fbanner%2F1708163068081-Frame%20251%20(4).jpg&w=640&q=75",
+                "Name":"Gläser"
+            },
+            {
+                "icon":"https://api.salian.com/api/file/v1_0/imagebyparent/039ada05-df2f-40de-8e95-0cc76373dced",
+                "Name":"Tasche"
+            },
+            {
+                "icon":"https://api.salian.com/api/file/v1_0/imagebyparent/039ada05-df2f-40de-8e95-0cc76373dced",
+                "Name":"Ornamente"
+            }
+        ],
+        "Rabatt":[
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/75bbcc3c-9676-429a-8054-f898f607fe68",
+                "Name":"Mini-Miner T-Shirt",
+                "Price":"6.650€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/86443aee-2200-4f03-a6d9-e92fbfeb6f61",
+                "Name":"Umwelt T-Shirt",
+                "Price":"6,300€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/7a6810e1-cd8e-4bcc-bd35-a98a17ec6ee2",
+                "Name":"limania",
+                "Price":"9,030€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/59920d50-f4d2-4b0a-a4a1-e322e6e09710",
+                "Name":"rasino",
+                "Price":"4,060€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/036a771a-85a5-4372-9ddc-b8d07b7a9b39",
+                "Name":"stive",
+                "Price":"4,200€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/452cce6e-c10b-4667-94fc-532c47cfd2d0",
+                "Name":"buri",
+                "Price":"7,630€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/e0f29550-2bca-4f91-bf84-47707a3acaa4",
+                "Name":"ceine",
+                "Price":"22,330€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/34f9968b-9e1b-4c9c-aa23-13f1db43bda8",
+                "Name":"Glenis Damen-Sari",
+                "Price":"16,660€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/aa4e8df3-e4c8-4ce0-bba1-99bfece29ec3",
+                "Name":"Rodolfo Lederhandschuhe",
+                "Price":"6,930€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/70ce3cd0-b2b1-49d1-acdb-2f8ab6f094b7",
+                "Name":"Lomita-Shorts",
+                "Price":"6,230€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/e8e31e4a-1524-4ea8-8736-4006a2b619ca",
+                "Name":"Artoo Damensocken",
+                "Price":"700€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/739bbe19-d43a-4e26-9897-47a5d2abaaa5",
+                "Name":"Renatas Mädchenshirt",
+                "Price":"4,900€"
+            }
+        ]
+        ,
+        "Neueste":[
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/2d3ba4c9-c7b4-4923-bbd9-689408a0f6d7",
+                "Name":"Mini-Miner T-Shirt",
+                "Price":"6.750€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/072bf7bc-0f78-4ac8-a5ea-c8a7ba27cdb8",
+                "Name":"Umwelt T-Shirt",
+                "Price":"6,300€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/d12b9eaa-3568-4a63-b348-2879b57df45c",
+                "Name":"limania",
+                "Price":"5,030€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/acc9cbd7-a77c-4f99-af09-8fca8ab8f0f3",
+                "Name":"rasino",
+                "Price":"4,560€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/f3511c4c-20d7-4706-924c-83f00d55650c",
+                "Name":"stive",
+                "Price":"4,500€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/5fe590ca-3537-4070-9e7b-cb410c03873c",
+                "Name":"buri",
+                "Price":"3,630€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/e5619155-c0da-44f9-a492-756359428ff6",
+                "Name":"ceine",
+                "Price":"46,330€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/54dce95d-b32d-492c-90dc-1a04a4dcd69f",
+                "Name":"Glenis Damen-Sari",
+                "Price":"1,660€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/c9afd816-6394-4232-ae42-3d1daf7d611c",
+                "Name":"Rodolfo Lederhandschuhe",
+                "Price":"46,930€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/c1f82f20-0441-4f17-8455-9dcd69f90c16",
+                "Name":"Artoo Damensocken",
+                "Price":"1700€"
+            },
+            {
+                "image":"https://api.salian.com/api/file/v1_0/imagebyparent/20efd678-3170-4c1c-aff2-3c68976443bb",
+                "Name":"Renatas Mädchenshirt",
+                "Price":"4,770€"
+            }
+        ],
+        "Footer":[
+            {
+                "title":""
+            }
+        ],
+        "Proudukt":[
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/bbc69a4f-9e23-4ef1-8858-ebabe8370913",
+                "Name":"Hilna Damen T-Shirt",
+                "Preis":"6,650€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/8a8aab69-dbc6-4978-a727-84b36c0d64d0" ,
+                "Name":"Asla Damen-T-Shirt",
+                "Preis":"4,770€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/e713d1af-090f-4e54-943b-4dc7db36047c" ,
+                "Name":"Arten Damen-T-Shirt",
+                "Preis":"6,160€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/cd26c578-0587-4276-b88e-31f41c915f18" ,
+                "Name":"Niwata Damen-T-Shirt",
+                "Preis":"5,530€"
+            },            
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/fef1813a-ffb1-422f-ba3c-4cbe33e8d8dc" ,
+                "Name":"Nusila Damen-T-Shirt",
+                "Preis":"5,530€"
+            },            
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/f9c745b8-f3ae-4b58-b3ab-ebd7e8a13e08" ,
+                "Name":"Risa Damen-Leinenrock",
+                "Preis":"1700€"
+            },            
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/cd26c578-0587-4276-b88e-31f41c915f18" ,
+                "Name":"Niwata Damen-T-Shirt",
+                "Preis":"5,530€"
+            },          
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/2d3ba4c9-c7b4-4923-bbd9-689408a0f6d7",
+                "Name":"Mini-Miner T-Shirt",
+                "Preis":"6.750€"
+            }
+        ],
+        "Shoe":[
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/4fdb4027-3c71-42c7-9b16-1250a24dcf8d",
+                "Name":"Monisa-Ledersandalen",
+                "Preis":"6.750€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/4c5af7aa-d13e-49dd-8948-78f25eeb9812",
+                "Name":"Vuitton-Ledersandalen",
+                "Preis":"5.390€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/612cbe8f-1f43-42a5-8cdd-31c1d6ef8f89",
+                "Name":"Melita Leather College",
+                "Preis":"11,200€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/2f9bd966-e437-4981-b6bf-cfe0527130f2",
+                "Name":"Samora Sportschuhe",
+                "Preis":"10,150€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/14d66156-80d7-48f0-8977-05511468eab6",
+                "Name":"Dori-Lederstiefeletten",
+                "Preis":"20,860€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/4a027373-c032-4806-8c03-d1dab52879d8",
+                "Name":"Fanta langer Stiefel",
+                "Preis":"22,768€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/387d6371-2608-4525-80d3-8e250b1698e6",
+                "Name":"Drama-Lederstiefel",
+                "Preis":"11,200€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/86505128-b3a0-436d-9a3b-8d9444a48c48",
+                "Name":"Delany College",
+                "Preis":"34,683€"
+            }
+        ],
+        "Mann":[
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/48267fa2-9552-4209-9515-4c4fbbf70a82",
+                "Name":"Samyo Herrenmantel",
+                "Preis":"6.750€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/89454462-5d6f-4397-b4cc-dfc91030d820",
+                "Name":"Lawrence Herrenhose",
+                "Preis":"5.390€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/8179ae48-296d-4cd4-bf46-ca378be882d8",
+                "Name":"Melita Leather College",
+                "Preis":"11,200€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/43031dfc-e62c-4d69-a4a3-b4964114679d",
+                "Name":"Samora Sportschuhe",
+                "Preis":"10,150€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/b2150719-8112-4fb7-82c5-7fc20cbbe055",
+                "Name":"Dori-Lederstiefeletten",
+                "Preis":"20,860€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/6ab85dab-4f75-4e7e-95af-f99bc5ec0af3",
+                "Name":"Fanta langer Stiefel",
+                "Preis":"22,768€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/e51e11de-64cb-47b5-8daa-26521a260051",
+                "Name":"Drama-Lederstiefel",
+                "Preis":"11,200€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/a0408ebe-68fa-4c01-b519-d805f12c4093",
+                "Name":"Delany College",
+                "Preis":"34,683€"
+            }
+        ],
+
+        "Girl":[
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/4a027373-c032-4806-8c03-d1dab52879d8",
+                "Name":"Fanta langer Stiefel",
+                "Preis":"22,768€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/9a82bf95-943c-4128-8149-e4a9ae8789a9",
+                "Name":"Drama-Lederstiefel",
+                "Preis":"11,200€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/86505128-b3a0-436d-9a3b-8d9444a48c48",
+                "Name":"Delany College",
+                "Preis":"34,683€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/0032adc4-c487-4d36-a077-79806655095a",
+                "Name":"Damen",
+                "Preis":"4,770€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/44377b8e-4899-4cf7-b888-129af302a325",
+                "Name":"Samora Sportschuhe",
+                "Preis":"6.750€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/abe5f8f4-9025-4982-abf0-0a0ea371f2b6",
+                "Name":"Risa Damen-Leinenrock",
+                "Preis":"1700€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/5b8dd950-37e9-4c55-9a91-f3024b26c35c",
+                "Name":"Lomita-Shorts",
+                "Preis":"20,860€"
+            },
+            {
+                "img":"https://api.salian.com/api/file/v1_0/imagebyparent/3a31768b-2c59-4fb6-b7ec-2d5bb2a04a6d",
+                "Name":"Monisa-Ledersandalen",
+                "Preis":"5,530€"
+            }
+        ]
+
+        
+    
+}
